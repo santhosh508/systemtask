@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	background: linear-gradient(90deg, #000080,#8B0000);
+	color: white;
+}
+
+.modal-header .modal-title, .modal-body .form-group{
+	color: #000080;
+}
+
+#btns_div{
+	margin-top: 10px;
+}
